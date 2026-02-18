@@ -1,4 +1,4 @@
-# Hi, I'm Ismail 👋
+# Hi, I'm Ismail :)
 
 🎓 Computer Science Graduate  
 💻 Software & Systems Engineer  
@@ -6,13 +6,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
+I enjoy understanding systems in depth, from infrastructure and operating systems to the underlying engineering and code. Exploring the logic, design, and complexity behind how systems work, as well as building and improving my own, is what I find most interesting. Analysing other systems has helped me develop a more innovative and problem-solving approach.
 
-Computer Science graduate passionate about **Systems Engineering** and **Software Development**.
+I work well in collaborative environments and enjoy contributing as part of a team.
 
-I enjoy building practical solutions, improving system reliability, and solving real-world technical challenges across software and infrastructure.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +22,7 @@ Python • Java • SQL
 Linux • Git • GitHub • AWS • Azure • Microsoft Intune • Power BI  
 
 **Interests:**  
-Systems Engineering • Backend Development • Cloud • Automation • Intelligent Systems  
+Systems/Software Engineering • Backend Development • Cloud • Automation • Artifical Intelligence
 
 ---
 
@@ -38,6 +37,6 @@ Python • Machine Learning • Real-Time Processing
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
 🔗 LinkedIn: www.linkedin.com/in/mohamad-ismail-9217a1225
