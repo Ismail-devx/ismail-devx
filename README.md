@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Ismail 👋
 
-<!--
-**Ismail-devx/ismail-devx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+💻 Software & Systems Engineer  
+⚙️ IT Operations | Cloud | Backend  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Computer Science graduate passionate about **Systems Engineering** and **Software Development**.
+
+I enjoy building practical solutions, improving system reliability, and solving real-world technical challenges across software and infrastructure.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+Python • Java • SQL  
+
+**Technologies & Tools:**  
+Linux • Git • GitHub • AWS • Azure • Microsoft Intune • Power BI  
+
+**Interests:**  
+Systems Engineering • Backend Development • Cloud • Automation • Intelligent Systems  
+
+---
+
+## 📌 Featured Project
+
+🔹 **Real-Time Emotion Recognition System**  
+Python • Machine Learning • Real-Time Processing  
+
+- Developed a real-time speech emotion recognition pipeline  
+- Implemented adaptive sliding window processing  
+- Integrated ML inference with live input  
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: www.linkedin.com/in/mohamad-ismail-9217a1225
