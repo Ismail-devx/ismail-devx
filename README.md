@@ -13,10 +13,8 @@ I work well in collaborative environments and enjoy contributing as part of a te
 
 
 
-## 🛠️ Tech Stack
-
 **Languages:**  
-Python • Java • SQL  
+Python • Java • JavaScript • SQL • Kotlin • Swift • C#   
 
 **Technologies & Tools:**  
 Linux • Git • GitHub • AWS • Azure • Microsoft Intune • Power BI  
